@@ -9,7 +9,7 @@
 
 **BATCH DURATION** : January 20th, 2025 to March 5th, 2025
 
-**MENTOR NAME** : Neela Santosh
+**MENTOR NAME** : Neela Santhosh
 
 # Project Features
 
